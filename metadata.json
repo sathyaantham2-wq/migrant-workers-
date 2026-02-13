@@ -1,0 +1,7 @@
+{
+  "name": "Pravasi Shramik Registry",
+  "description": "A comprehensive year-wise migrant worker registration and monitoring system for Ranga Reddy District.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
